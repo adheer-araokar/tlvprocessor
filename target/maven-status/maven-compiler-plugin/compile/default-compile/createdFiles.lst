@@ -1,0 +1,7 @@
+com\java\processor\OperationsImpl\StringReplace.class
+com\java\processor\TLVProcessor.class
+com\java\processor\InputOutputInterfaces\InputOutputInterface.class
+com\java\processor\OperationsInterface\Operations.class
+com\java\processor\InputOutputImpl\StandardInput.class
+com\java\processor\OperationsImpl\StringLowerCase.class
+com\java\processor\OperationsImpl\StringUpperCase.class
